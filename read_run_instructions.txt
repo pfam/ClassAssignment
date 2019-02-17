@@ -1,0 +1,8 @@
+This web application was built using bootstrap and react app.
+
+To start project:
+open node.js cmd
+cd to filepath: ClassAssignment-master
+run 'npm start'
+
+//should launch chrome browser and run as local host after successful compilation
